@@ -4,5 +4,6 @@ numpy
 plotly
 os
 datetime
-BytesIO
+io
+
 
